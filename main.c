@@ -12,6 +12,11 @@ Initial Security()
 Initial Security1()
 {
 //this is feature1 branch
+Intial Security2()
+{
+// This is my second feature
+
+>>>>>>> feature2
 }
 
 
